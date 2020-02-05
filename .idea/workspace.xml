@@ -6,110 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19e51998-6fe3-4178-8a79-33640e2bacef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/controller/EmpController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/controller/IController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mapper/DepMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mapper/EmpMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mapper/EmpWelfareMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mapper/IDepMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mapper/IEmpMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mapper/IEmpWelfareMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mapper/ISalaryMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mapper/IWelfareMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mapper/SalaryMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mapper/WelfareMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/po/Dep.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/po/Emp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/po/EmpWelfare.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/po/PageBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/po/Salary.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/po/Welfare.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/service/IDepService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/service/IEmpService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/service/IWelfareService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/serviceImpl/DepServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/serviceImpl/EmpServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/serviceImpl/WelfareServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/serviceutil/BizService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/serviceutil/DaoService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/util/AjAxUtils$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/util/AjAxUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mybaties-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/classes/com/controller/EmpController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/classes/com/controller/IController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/classes/com/mapper/DepMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/classes/com/mapper/EmpMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/classes/com/mapper/EmpWelfareMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/classes/com/mapper/IDepMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/classes/com/mapper/IEmpMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/classes/com/mapper/IEmpWelfareMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/classes/com/mapper/ISalaryMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/classes/com/mapper/IWelfareMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/classes/com/mapper/SalaryMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/classes/com/mapper/WelfareMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/classes/com/po/Dep.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/classes/com/po/Emp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/classes/com/po/EmpWelfare.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/classes/com/po/PageBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/classes/com/po/Salary.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/classes/com/po/Welfare.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/classes/com/service/IDepService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/classes/com/service/IEmpService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/classes/com/service/IWelfareService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/classes/com/serviceImpl/DepServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/classes/com/serviceImpl/EmpServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/classes/com/serviceImpl/WelfareServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/classes/com/serviceutil/BizService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/classes/com/serviceutil/DaoService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/classes/com/util/AjAxUtils$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/classes/com/util/AjAxUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/classes/mybaties-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/lib/aopalliance-1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/lib/aspectjrt-1.6.11.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/lib/aspectjweaver-1.7.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/lib/c3p0-0.9.5.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/lib/commons-codec-1.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/lib/commons-dbcp-1.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/lib/commons-fileupload-1.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/lib/commons-io-2.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/lib/commons-logging-1.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/lib/commons-pool-1.5.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/lib/cors-filter-2.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/lib/fastjson-1.2.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/lib/jackson-core-asl-1.9.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/lib/jackson-mapper-asl-1.9.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/lib/java-property-utils-1.9.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/lib/jsqlparser-0.9.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/lib/mchange-commons-java-0.2.11.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/lib/mybatis-3.4.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/lib/mybatis-spring-1.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/lib/mysql-connector-java-5.1.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/lib/pagehelper-4.0.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/lib/servlet-api-2.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/lib/spring-aop-4.0.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/lib/spring-beans-4.0.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/lib/spring-context-4.0.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/lib/spring-context-support-4.0.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/lib/spring-core-4.0.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/lib/spring-expression-4.0.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/lib/spring-jdbc-4.0.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/lib/spring-oxm-4.0.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/lib/spring-test-4.0.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/lib/spring-tx-4.0.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/lib/spring-web-4.0.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/lib/spring-webmvc-4.0.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/emp.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sssssm/index.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="19e51998-6fe3-4178-8a79-33640e2bacef" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -410,7 +307,7 @@
       <option name="presentableId" value="Default" />
       <updated>1579159844186</updated>
       <workItem from="1579159845871" duration="3446000" />
-      <workItem from="1580887044092" duration="1928000" />
+      <workItem from="1580887044092" duration="2172000" />
     </task>
     <task id="LOCAL-00001" summary="demo12ssm">
       <created>1580888933147</created>
@@ -419,11 +316,18 @@
       <option name="project" value="LOCAL" />
       <updated>1580888933148</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="demo12ssm">
+      <created>1580889107428</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580889107428</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5374000" />
+    <option name="totallyTimeSpent" value="5618000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
